@@ -1,1 +1,0 @@
-# s16979_miniproject_database
